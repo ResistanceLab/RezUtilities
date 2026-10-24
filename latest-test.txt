@@ -1,0 +1,4 @@
+RezUtilities.Test.v1.03
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.03/RezUtilities.Test.v1.03.dll
+d091207bab370f3bc4dc0a73e20479e1064e9f4cb1dafb0e1231928622563b9d
+Vendor tab, settings next to the DLL, mini HUDs reopen where they were
