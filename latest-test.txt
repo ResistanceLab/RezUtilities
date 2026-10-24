@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.04
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.04/RezUtilities.Test.v1.04.dll
-52c8d4762ff421b85e52f010187853b6545a682a2d74d20bb98813d186664ce1
-Dummy build to test the updater - no code changes
+RezUtilities.Test.v1.05
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.05/RezUtilities.Test.v1.05.dll
+b509e51b9f9b69c8512d0d699fee01d54d4dff6bcc61bbea8b745233b8bb4e01
+Mini HUD tab and MMD HUD
