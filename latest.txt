@@ -1,0 +1,4 @@
+RezUtilities.v1.02
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.v1.02/RezUtilities.v1.02.dll
+f02f614541ea3f9993d28dbfeb957686470a316bf861a6174980ff8c1067e1ba
+First RezUtilities build
