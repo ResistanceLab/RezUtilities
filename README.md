@@ -8,6 +8,7 @@ A Decal plugin for Asheron's Call (ACE servers): **RezSalvage**, **RezChest**, *
 | **Chest** | Loots a chest quickly with your VTank loot profile: opens it (key only if it's locked), identifies everything at once, and picks up the keepers back to back. |
 | **Vendor** | Sells to a vendor from a VTank loot profile (`.utl` Sell rules, UtilityBelt AutoVendor profiles work as they are), one batch per server round trip instead of fixed waits. Automatic when a vendor opens, or Sell Now / Preview. |
 | **Radar** | Draws the dungeon you're in inside a compass-style ring, straight from the client's own map data, with doors, chests, portals, NPCs, monsters and players marked. |
+| **Mini HUD** | Opens the **MMD HUD**: Spawn Cache, RZ AutoSalvage, Combine and Sell Now in one small window (Combine and Sell Now read Stop while running). Also opens the Salvage and Chest mini HUDs. |
 | **Update** | Shows the installed build and checks this repository for a newer one. |
 
 ## Requirements
@@ -36,7 +37,7 @@ Keep every RezUtilities build in the same folder (the updater does) and your set
 
 Your settings from before are copied in the first time each character logs in: from RezUtilities v1.02's `Documents\Decal Plugins\RezUtilities\` folder, or from the old RezSalvage, RezChest, RezAutoVendor and RezRadar folders (chests, keys and loot profiles, value caps, vendor settings and profiles, mini HUD positions, radar settings). The old files are left as they were.
 
-The Salvage and Chest **mini HUDs** remember where they were and whether they were open, per character: open at logout means open again, in the same spot, at the next login.
+The Salvage, Chest and MMD **mini HUDs** remember where they were and whether they were open, per character: open at logout means open again, in the same spot, at the next login.
 
 ## Updates
 
@@ -52,7 +53,7 @@ RezUtilities checks this repository at login and then every hour.
 
 | Command | |
 |---|---|
-| `/rzu` (`/rezutilities`) | Show/hide the window. `/rzu salvage`, `/rzu chest`, `/rzu vendor`, `/rzu radar` open it on that tab; `/rzu update [cancel]`; `/rzu version` |
+| `/rzu` (`/rezutilities`) | Show/hide the window. `/rzu salvage`, `/rzu chest`, `/rzu vendor`, `/rzu radar`, `/rzu minihud` open it on that tab; `/rzu mmd` shows/hides the MMD HUD; `/rzu update [cancel]`; `/rzu version` |
 | `/rzs` (`/rezsalvage`) | Salvage: `combine`, `stop`, `preview`, `cap 75k`, `auto on/off`, `delay 5`, `force on/off/120`, `verbose`, `status`, `hud` |
 | `/rzc` (`/rezchest`) | Chest: `start`, `sel`, `stop`, `chest`, `key`, `profile`, `close`, `report`, `loop`, `auto`, `hud`, `status`, … |
 | `/rav` (`/rezautovendor`) | Vendor: `sell [profile]`, `preview`, `check <profile>`, `stop`, `enable on/off`, `testmode on/off`, `batch 99`, `status`, `profiles`, `sync`, … |
