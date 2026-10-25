@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.05
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.05/RezUtilities.Test.v1.05.dll
-b509e51b9f9b69c8512d0d699fee01d54d4dff6bcc61bbea8b745233b8bb4e01
-Mini HUD tab and MMD HUD
+RezUtilities.Test.v1.06
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.06/RezUtilities.Test.v1.06.dll
+2b304cfef31a0f40ccbc6ad0cd78274d7f1e8602f24fec10c222ee35eb8927b3
+Chest: stackables stack again, no more too-busy spam
