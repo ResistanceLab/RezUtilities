@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.06
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.06/RezUtilities.Test.v1.06.dll
-2b304cfef31a0f40ccbc6ad0cd78274d7f1e8602f24fec10c222ee35eb8927b3
-Chest: stackables stack again, no more too-busy spam
+RezUtilities.Test.v1.07
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.07/RezUtilities.Test.v1.07.dll
+26e66af69688589936dc7d37aa5142cd3dfdc0b7441fa4d1ceae036608027d99
+Chest: stack listing in the debug trace
