@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.07
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.07/RezUtilities.Test.v1.07.dll
-26e66af69688589936dc7d37aa5142cd3dfdc0b7441fa4d1ceae036608027d99
-Chest: stack listing in the debug trace
+RezUtilities.Test.v1.08
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.08/RezUtilities.Test.v1.08.dll
+6236750b12fc8ba619b95489109227542358e00865942790ae8d3cd7d3b07c09
+MMD HUD: Chest status lines, resizable width
