@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.08
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.08/RezUtilities.Test.v1.08.dll
-6236750b12fc8ba619b95489109227542358e00865942790ae8d3cd7d3b07c09
-MMD HUD: Chest status lines, resizable width
+RezUtilities.Test.v1.09
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.09/RezUtilities.Test.v1.09.dll
+8eea213ef42695620de8fce408ffdd7aeafe5eb1f5339e514224d963f7a19b97
+Chest: stackables you carry wait for the previous pickup - no more can't be merged spam
