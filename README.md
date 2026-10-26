@@ -55,7 +55,7 @@ RezUtilities checks this repository at login and then every hour.
 |---|---|
 | `/rzu` (`/rezutilities`) | Show/hide the window. `/rzu salvage`, `/rzu chest`, `/rzu vendor`, `/rzu radar`, `/rzu minihud` open it on that tab; `/rzu mmd` shows/hides the MMD HUD; `/rzu update [cancel]`; `/rzu version` |
 | `/rzs` (`/rezsalvage`) | Salvage: `combine`, `stop`, `preview`, `cap 75k`, `auto on/off`, `delay 5`, `force on/off/120`, `verbose`, `status`, `hud` |
-| `/rzc` (`/rezchest`) | Chest: `start`, `sel`, `stop`, `chest`, `key`, `profile`, `close`, `report`, `loop`, `auto`, `jump`, `jumpms`, `hud`, `status`, … |
+| `/rzc` (`/rezchest`) | Chest: `start`, `sel`, `stop`, `chest`, `key`, `profile`, `close`, `report`, `loop`, `auto`, `jump`, `jumpms`, `pausevt`, `hud`, `status`, … |
 | `/rav` (`/rezautovendor`) | Vendor: `sell [profile]`, `preview`, `check <profile>`, `stop`, `enable on/off`, `testmode on/off`, `batch 99`, `status`, `profiles`, `sync`, … |
 | `/rr` | Radar: settings toggle, `show`/`hide`, `lock`, `size`, `zoom`, `level`, `names`, `time`, … |
 
