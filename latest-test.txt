@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.14
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.14/RezUtilities.Test.v1.14.dll
-defff7fd5de2c1c39a9dff33a03c255f9dbfd8fb2f4214d8dc0f11e22a9d7ef8
+RezUtilities.Test.v1.15
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.15/RezUtilities.Test.v1.15.dll
+8b0cfe977a5f5cce2c081ee62e8a11af047293736530e5ae73676fc4e358e07c
 Chest: side packs get direct moves when the main pack is full
