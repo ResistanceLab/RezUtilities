@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.16
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.16/RezUtilities.Test.v1.16.dll
-62943db7079450bc79770972ea00d2bc472547f28206ecc6570b9c9f7130067f
-v1.16 working point: jump looting fixes, RezTank loot pause during chest runs, side packs get direct moves, Vendor never sells equipped/inscribed/retained/tinkered/imbued/zero-value items
+RezUtilities.Test.v1.17
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.17/RezUtilities.Test.v1.17.dll
+763bfa4e366ef140d400881b6293273ae6ccab75e56cd7b44f2ac38a484e351e
+MMD HUD: Force Value Combine, new RZ Force Combine button
