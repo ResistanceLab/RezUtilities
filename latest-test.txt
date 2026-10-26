@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.22
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.22/RezUtilities.Test.v1.22.dll
-a9f6bd6558343f7d8c06d8c4440602056e61cdf028d007124fcbf92e7a50e867
-Full main pack: direct side-pack move attempt, instant double-click retry
+RezUtilities.Test.v1.23
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.23/RezUtilities.Test.v1.23.dll
+f8fcf1f5fd05207aaea718cb1755f62f70913415b3c394dd026242de11f8c974
+Salvage: finished line as You think
