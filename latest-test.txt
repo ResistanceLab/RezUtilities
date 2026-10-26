@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.21
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.21/RezUtilities.Test.v1.21.dll
-3833ce74b2f5ff3adf8765db083e0b9b08f4dfd3c1dec2cc32a0f1efb8371a39
-Map: heading strip removed, Cardinals Outside of Compass; full main pack: double-click pacing
+RezUtilities.Test.v1.22
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.22/RezUtilities.Test.v1.22.dll
+a9f6bd6558343f7d8c06d8c4440602056e61cdf028d007124fcbf92e7a50e867
+Full main pack: direct side-pack move attempt, instant double-click retry
