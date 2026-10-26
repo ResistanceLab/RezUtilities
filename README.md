@@ -8,7 +8,7 @@ A Decal plugin for Asheron's Call (ACE servers): **RezSalvage**, **RezChest**, *
 | **Chest** | Loots a chest quickly with your VTank loot profile: opens it (key only if it's locked), identifies everything at once, and picks up the keepers back to back. Optional **jump looting** hops in place and picks up while in the air, where the server skips the pickup animation. |
 | **Vendor** | Sells to a vendor from a VTank loot profile (`.utl` Sell rules, UtilityBelt AutoVendor profiles work as they are), one batch per server round trip instead of fixed waits. Automatic when a vendor opens, or Sell Now / Preview. |
 | **Radar** | Draws the dungeon you're in inside a compass-style ring, straight from the client's own map data, with doors, chests, portals, NPCs, monsters and players marked. |
-| **Mini HUD** | Opens the **MMD HUD**: the Chest looter's status lines plus Spawn Cache, RZ AutoSalvage, Force Value Combine, RZ Force Combine and Sell Now in one small window (Force Value Combine and Sell Now read Stop while running). Also opens the Salvage and Chest mini HUDs. |
+| **Mini HUD** | Opens the **MMD HUD**: the Chest looter's status lines, MMDs earned this session and per hour (with Clear Stats), plus Spawn Cache, RZ AutoSalvage, Force Value Combine, RZ Force Combine and Sell Now in one small window (Force Value Combine and Sell Now read Stop while running). Also opens the Salvage and Chest mini HUDs. |
 | **Update** | Shows the installed build and checks this repository for a newer one. |
 
 ## Requirements
