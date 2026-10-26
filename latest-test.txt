@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.17
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.17/RezUtilities.Test.v1.17.dll
-763bfa4e366ef140d400881b6293273ae6ccab75e56cd7b44f2ac38a484e351e
-MMD HUD: Force Value Combine, new RZ Force Combine button
+RezUtilities.Test.v1.18
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.18/RezUtilities.Test.v1.18.dll
+9743fe5517ede9ef437e80d751307921514fd5345468bcbbdc7565d9380ad75e
+MMD HUD: MMDs earned from vendor sales this session, MMDs per hour, Clear Stats
