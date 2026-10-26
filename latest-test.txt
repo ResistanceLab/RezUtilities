@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.19
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.19/RezUtilities.Test.v1.19.dll
-f0996b6e0d8d594c107f0d258d4189e5e9eff3494beb3dc28c95cbf9a6123824
-MMD tracker: hand sales and per hour; Chest: debug log file, jump waits for busy
+RezUtilities.Test.v1.20
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.20/RezUtilities.Test.v1.20.dll
+b6a3b5d8b0bbd078371f7e39bbbbb7f07bae2d406e10a1bd823a56b5eb480965
+Side pack no-answer fix, jump timing fixes, HUD tab rename
