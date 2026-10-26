@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.15
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.15/RezUtilities.Test.v1.15.dll
-8b0cfe977a5f5cce2c081ee62e8a11af047293736530e5ae73676fc4e358e07c
-Chest: side packs get direct moves when the main pack is full
+RezUtilities.Test.v1.16
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.16/RezUtilities.Test.v1.16.dll
+62943db7079450bc79770972ea00d2bc472547f28206ecc6570b9c9f7130067f
+v1.16 working point: jump looting fixes, RezTank loot pause during chest runs, side packs get direct moves, Vendor never sells equipped/inscribed/retained/tinkered/imbued/zero-value items
