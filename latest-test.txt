@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.20
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.20/RezUtilities.Test.v1.20.dll
-b6a3b5d8b0bbd078371f7e39bbbbb7f07bae2d406e10a1bd823a56b5eb480965
-Side pack no-answer fix, jump timing fixes, HUD tab rename
+RezUtilities.Test.v1.21
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.21/RezUtilities.Test.v1.21.dll
+3833ce74b2f5ff3adf8765db083e0b9b08f4dfd3c1dec2cc32a0f1efb8371a39
+Map: heading strip removed, Cardinals Outside of Compass; full main pack: double-click pacing
