@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.25
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.25/RezUtilities.Test.v1.25.dll
-63e2ce53cabeedbd731043b4555dfbc0041c1a7dc25788f3aa2cb8139049d370
-Radar Text tab: name plate, cardinal and day/night text sizes
+RezUtilities.Test.v1.26
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.26/RezUtilities.Test.v1.26.dll
+289db8c794ad3baeb9d6aed3c55c5e147ddbc61e6bf4cdd71334f8bbea90e7b5
+Radar: mouse wheel zoom
