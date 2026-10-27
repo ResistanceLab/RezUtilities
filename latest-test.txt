@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.27
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.27/RezUtilities.Test.v1.27.dll
-3de238cc02d1dea80c7606c692b085a38e0dd23d0c62afd7bde7f1ac1b2bf65a
-Radar: Names on the map text size
+RezUtilities.Test.v1.28
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.28/RezUtilities.Test.v1.28.dll
+5e9229d2609b62556142d208b31fc138ae24ea7154c63d177359869a2873df3b
+Radar: floor selector (up/down arrows, green dot on your floor)
