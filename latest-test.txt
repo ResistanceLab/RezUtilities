@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.23
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.23/RezUtilities.Test.v1.23.dll
-f8fcf1f5fd05207aaea718cb1755f62f70913415b3c394dd026242de11f8c974
-Salvage: finished line as You think
+RezUtilities.Test.v1.24
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.24/RezUtilities.Test.v1.24.dll
+b496d46e1ef307ff37fc1b60b66bac61741dd201dc8f85d5d66f70b149eb500b
+Radar Reset button for the travelled path; updater keeps one previous build
