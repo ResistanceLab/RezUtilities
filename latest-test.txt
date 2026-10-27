@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.26
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.26/RezUtilities.Test.v1.26.dll
-289db8c794ad3baeb9d6aed3c55c5e147ddbc61e6bf4cdd71334f8bbea90e7b5
-Radar: mouse wheel zoom
+RezUtilities.Test.v1.27
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.27/RezUtilities.Test.v1.27.dll
+3de238cc02d1dea80c7606c692b085a38e0dd23d0c62afd7bde7f1ac1b2bf65a
+Radar: Names on the map text size
