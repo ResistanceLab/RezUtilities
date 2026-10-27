@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.24
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.24/RezUtilities.Test.v1.24.dll
-b496d46e1ef307ff37fc1b60b66bac61741dd201dc8f85d5d66f70b149eb500b
-Radar Reset button for the travelled path; updater keeps one previous build
+RezUtilities.Test.v1.25
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.25/RezUtilities.Test.v1.25.dll
+63e2ce53cabeedbd731043b4555dfbc0041c1a7dc25788f3aa2cb8139049d370
+Radar Text tab: name plate, cardinal and day/night text sizes
