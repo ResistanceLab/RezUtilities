@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.28
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.28/RezUtilities.Test.v1.28.dll
-5e9229d2609b62556142d208b31fc138ae24ea7154c63d177359869a2873df3b
-Radar: floor selector (up/down arrows, green dot on your floor)
+RezUtilities.Test.v1.29
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.29/RezUtilities.Test.v1.29.dll
+838370e4a7c10fb4d75beed58e3f698ed5b5f750154395f8e1e77c4d7113c185
+Radar: hover a dot for its name
