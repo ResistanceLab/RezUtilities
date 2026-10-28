@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.31
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.31/RezUtilities.Test.v1.31.dll
-d52f7eb6958df288606caf37143209379578b47067ddd5a91e5bbd838352dad1
-Radar: names spread out instead of stacking
+RezUtilities.Test.v1.32
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.32/RezUtilities.Test.v1.32.dll
+39ba3a1c75bbe5f7a65685c90e528f04cbc1afc371174cc2fc5bf13af287bcd5
+Radar: names back above their dots (name spreading removed)
