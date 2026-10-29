@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.33
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.33/RezUtilities.Test.v1.33.dll
-b23ce889f55b258431d9a187261eebb7c585dc4ae0f17a8345ed9ae3e25dba3e
-Hunt tab: kill task tracker and Sense
+RezUtilities.Test.v1.34
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.34/RezUtilities.Test.v1.34.dll
+11580355d0406fd1c2c0956be80281232961e6414405862fc8b8f5d6b4b58bcd
+Hunt: page fix, task arrow only for the clicked task
