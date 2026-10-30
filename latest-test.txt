@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.38
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.38/RezUtilities.Test.v1.38.dll
-4cf47a0427cbc7128df443b3e1ac8a63b1e240c3f755d993b8a0b0fd034cf5f2
-Items: Comps tab (keep comps stocked, auto-buy at vendors)
+RezUtilities.Test.v1.39
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.39/RezUtilities.Test.v1.39.dll
+ebe0c4d09e605268fe88426a3bf0f23a645221e08280d695c0fc7e13d3012b23
+Comps/Buy: vendor items read from the vendor's list
