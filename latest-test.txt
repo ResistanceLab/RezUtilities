@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.37
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.37/RezUtilities.Test.v1.37.dll
-ede34d2b558ff665406b80adac702a7110e8cc4ec09b9db9b87f520f8e5283e8
-Items tab: fast Give (min delay, auto-Yes) and Buy
+RezUtilities.Test.v1.38
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.38/RezUtilities.Test.v1.38.dll
+4cf47a0427cbc7128df443b3e1ac8a63b1e240c3f755d993b8a0b0fd034cf5f2
+Items: Comps tab (keep comps stocked, auto-buy at vendors)
