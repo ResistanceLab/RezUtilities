@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.43
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.43/RezUtilities.Test.v1.43.dll
-56dbd8add2752137c9ee006879c87b42438934b258ac0f8add2950062b3e2a5c
-Buy/Comps/Billybuy: pay with the vendor window's 'you have' figure
+RezUtilities.Test.v1.44
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.44/RezUtilities.Test.v1.44.dll
+b3f143f7dd928715b8b2c53887acafc5cc3465d12e0470ea637c078c310ea2b9
+Buy/Billybuy: run trace logs
