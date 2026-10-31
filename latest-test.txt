@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.40
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.40/RezUtilities.Test.v1.40.dll
-c7891fcd56b0dcc7a894beed0d5a46599e4453188c889a1090552d320bef30a5
+RezUtilities.Test.v1.41
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.41/RezUtilities.Test.v1.41.dll
+b2544dc3ccc5d805ee9ac54ec9a5d0013dc94fe46608c933b5391e6f23141d4a
 Give: Set Item on salvage = that material only; skip refused materials; Buy: whole amount in one buy
