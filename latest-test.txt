@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.41
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.41/RezUtilities.Test.v1.41.dll
-b2544dc3ccc5d805ee9ac54ec9a5d0013dc94fe46608c933b5391e6f23141d4a
-Give: Set Item on salvage = that material only; skip refused materials; Buy: whole amount in one buy
+RezUtilities.Test.v1.42
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.42/RezUtilities.Test.v1.42.dll
+6f9b8c9b5c2d42671fffa47e5cae16c80e5422ed510ce2524c10a09c9efe0e19
+Items: Billybuy tab (buy all salvage a vendor has)
