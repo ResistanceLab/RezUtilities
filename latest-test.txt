@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.39
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.39/RezUtilities.Test.v1.39.dll
-ebe0c4d09e605268fe88426a3bf0f23a645221e08280d695c0fc7e13d3012b23
-Comps/Buy: vendor items read from the vendor's list
+RezUtilities.Test.v1.40
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.40/RezUtilities.Test.v1.40.dll
+c7891fcd56b0dcc7a894beed0d5a46599e4453188c889a1090552d320bef30a5
+Give: Set Item on salvage = that material only; skip refused materials; Buy: whole amount in one buy
