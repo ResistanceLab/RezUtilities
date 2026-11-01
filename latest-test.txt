@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.49
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.49/RezUtilities.Test.v1.49.dll
-9047e0350a970411808b3469976cc91b7c042f4504dcc1b6bc0f65e6130eab6b
-Target HUD: no leftover debuff icons, your debuffs from enchantments, Self toggle, icons over heads, number format
+RezUtilities.Test.v1.50
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.50/RezUtilities.Test.v1.50.dll
+0fcf8d4948326f5a4c2e327e1b0b8cae3b1c833a7b7510f5c71ad11e157b67dd
+Kill tasks: imported list only; Hunt renamed RSense
