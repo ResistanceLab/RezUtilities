@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.44
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.44/RezUtilities.Test.v1.44.dll
-b3f143f7dd928715b8b2c53887acafc5cc3465d12e0470ea637c078c310ea2b9
-Buy/Billybuy: run trace logs
+RezUtilities.Test.v1.45
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.45/RezUtilities.Test.v1.45.dll
+cce4548a0e273485cac15e42f80d78b56720b50a113da2020d8e70c61c3b27df
+Billybuy: fill side packs, look again before stopping
