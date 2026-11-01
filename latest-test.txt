@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.50
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.50/RezUtilities.Test.v1.50.dll
-0fcf8d4948326f5a4c2e327e1b0b8cae3b1c833a7b7510f5c71ad11e157b67dd
-Kill tasks: imported list only; Hunt renamed RSense
+RezUtilities.Test.v1.51
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.51/RezUtilities.Test.v1.51.dll
+32d1d49e0e2149e7957fad6a74ba3c370ee343bdf1f831f4c5b8560822ffb32e
+Auto-update keeps only current build
