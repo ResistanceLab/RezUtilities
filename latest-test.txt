@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.45
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.45/RezUtilities.Test.v1.45.dll
-cce4548a0e273485cac15e42f80d78b56720b50a113da2020d8e70c61c3b27df
-Billybuy: fill side packs, look again before stopping
+RezUtilities.Test.v1.46
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.46/RezUtilities.Test.v1.46.dll
+33b15fffc38506647394c4aee51a28329a10836746094f48fd1a7ad9df91ef17
+Target HUD: health bar, Weakest Elements, debuff timers, spinning debuff icons
