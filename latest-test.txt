@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.47
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.47/RezUtilities.Test.v1.47.dll
-8db69f5f506b565d68105c733c791af58c441d4fa17a7e6234763d11f79fccaf
-Target HUD: health bar fix, hides with no target, size sliders, debuffs tick
+RezUtilities.Test.v1.48
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.48/RezUtilities.Test.v1.48.dll
+5627a1ee97ba4c91d9a5aecf672dad0dc4976304578cd25cb84f329acc7c402d
+Target HUD: debuff timers, icons or names, players and self, centred name
