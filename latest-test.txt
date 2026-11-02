@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.53
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.53/RezUtilities.Test.v1.53.dll
-6cb4a3ab28461477a5cd29cd121cee400b9996477155c50e85aef4bd385fad29
-Add War Magic to the disabled-character list
+RezUtilities.Test.v1.54
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.54/RezUtilities.Test.v1.54.dll
+a4e73445cb8cd485bb1d4fd8fcd30ea2bcb49f0135081d9bce04b54f3b814b4a
+Target HUD: Display self debuffs tick (spinning icons over self)
