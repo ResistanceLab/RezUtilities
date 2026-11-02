@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.52
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.52/RezUtilities.Test.v1.52.dll
-a518e93dd80ebfb9f6b9ac946847a138b0ca5fdd5175235fe13936fb6a142951
-d
+RezUtilities.Test.v1.53
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.53/RezUtilities.Test.v1.53.dll
+6cb4a3ab28461477a5cd29cd121cee400b9996477155c50e85aef4bd385fad29
+Add War Magic to the disabled-character list
