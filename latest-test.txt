@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.54
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.54/RezUtilities.Test.v1.54.dll
-a4e73445cb8cd485bb1d4fd8fcd30ea2bcb49f0135081d9bce04b54f3b814b4a
-Target HUD: Display self debuffs tick (spinning icons over self)
+RezUtilities.Test.v1.55
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.55/RezUtilities.Test.v1.55.dll
+ea9b48614032365185633fd248d20cf12d7e910776fa43d02f5d619e75c6180e
+Add Legato to the disabled-character list
