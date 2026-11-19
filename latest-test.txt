@@ -1,4 +1,4 @@
-RezUtilities.Test.v1.56
-https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.56/RezUtilities.Test.v1.56.dll
-f8e0b7960e266b1c841bacfa5cb64d0af5257f4b6e22437b63b730bb8a5ceabb
-Items: pause RezTank AutoStack/AutoCram/CombineSalvage during buys (fixes stack/cram jam)
+RezUtilities.Test.v1.57
+https://github.com/ResistanceLab/RezUtilities/releases/download/RezUtilities.Test.v1.57/RezUtilities.Test.v1.57.dll
+c53097601951df208b9a1351f94528620b0a44579a18c2144f455efe190a2fbd
+Add Rampancy to the disabled-character list
